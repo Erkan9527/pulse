@@ -10,12 +10,12 @@ export default function CTA() {
             准备开始追踪你的资产了吗？
           </h2>
           <p className="text-lg text-on-coral/80 max-w-[480px] mx-auto leading-relaxed mb-10">
-            StockPulse 永久免费，无广告，无追踪。从 Chrome 网上应用店一键安装。
+            StockPulse 永久免费，无广告，无追踪。从 Edge 附加组件商店一键安装。
           </p>
 
           <div className="flex items-center justify-center gap-4">
             <a
-              href="#"
+              href="https://microsoftedge.microsoft.com/addons/detail/stockpulse/ambpfpnadmehhfaoealepfgbcdcindll"
               className="inline-flex items-center h-11 px-6 text-sm font-medium text-coral bg-on-coral rounded-md hover:brightness-95 transition-all no-underline"
             >
               立即安装

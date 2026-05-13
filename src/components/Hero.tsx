@@ -8,7 +8,7 @@ export default function Hero() {
         <div className="text-center max-w-[720px] mx-auto mb-12">
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-pill bg-surface-dark text-on-dark-soft text-xs font-medium tracking-[1.5px] uppercase mb-8">
             <span className="w-2 h-2 rounded-full bg-accent-teal" />
-            Chrome 扩展
+            Edge 扩展
           </div>
 
           <h1
@@ -21,13 +21,13 @@ export default function Hero() {
           </h1>
 
           <p className="text-lg text-muted max-w-[480px] mx-auto leading-relaxed">
-            StockPulse 是一款精致的 Chrome 浏览器插件，
+            StockPulse 是一款精致的 Edge 浏览器插件，
             实时呈现你的自选币种行情，让每一次查看都成为享受。
           </p>
 
           <div className="flex items-center justify-center gap-4 mt-10">
             <a
-              href="#安装"
+              href="https://microsoftedge.microsoft.com/addons/detail/stockpulse/ambpfpnadmehhfaoealepfgbcdcindll"
               className="inline-flex items-center h-11 px-6 text-sm font-medium text-on-coral bg-coral rounded-md hover:bg-coral-active transition-colors no-underline"
             >
               免费安装
