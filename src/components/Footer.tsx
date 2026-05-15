@@ -5,7 +5,7 @@ export default function Footer() {
         {/* Wordmark */}
         <div className="flex items-center gap-2.5 mb-10">
           <img
-            src="/src/assets/icon-64.png"
+            src="/logo-64.png"
             alt="StockPulse"
             className="w-8 h-8 rounded-lg"
           />

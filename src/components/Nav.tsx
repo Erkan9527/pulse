@@ -7,7 +7,7 @@ export default function Nav() {
       <div className="max-w-[1200px] mx-auto w-full px-8 flex items-center justify-between">
         <a href="#" className="flex items-center gap-2.5 no-underline">
           <img
-            src="/src/assets/icon-48.png"
+            src="/logo-48.png"
             alt="StockPulse"
             className="w-6 h-6 rounded-md"
           />
